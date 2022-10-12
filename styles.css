@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    color: black;
+}
+a{
+    color: purple;
+    text-decoration: none;
+    font-size: 15px;;
+}
+
+#contact-form{
+    background-color: pink;
+}
+#name{
+    color: pink;
+    text-align: center;
+}
+hr{
+    border-width: medium;
+    border-style: solid;
+    opacity:0.5;
+    
+}
